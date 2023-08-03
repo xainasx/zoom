@@ -79,7 +79,7 @@ export default function UploadsComps() {
 
            </p> */}
                  <h2 className="text-2xl font-semibold tracking-tight">
-            Welcome to Fast Fashion 
+            Welcome to Re deri.gerue
           </h2>
         <div className="space-y-1">
           <h2 className="text-2xl font-semibold tracking-tight">
